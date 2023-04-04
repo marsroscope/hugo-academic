@@ -19,7 +19,7 @@ sections:
         - name: Python
           description: 80%
           icon: python
-          icon_pack: fab
+          icon_pack: fa-brands
         - name: Statistics
           description: 100%
           icon: chart-line
