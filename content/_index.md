@@ -18,16 +18,16 @@ sections:
       items:
         - name: Python
           description: 80%
-          icon: fa-python
-          icon_pack: fa-brands
+          icon: python
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
           icon_pack: fas
         - name: C++
           description: 60%
-          icon: fa-code
-          icon_pack: fa-sharp fa-solid
+          icon: code
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
