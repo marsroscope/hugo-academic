@@ -46,23 +46,26 @@ sections:
           company_logo: org-xjtu
           location: Xi'an, China
           date_start: '2015-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          date_end: '2019-08-31'
+          description: Majored in Metal Material & Energy Nano Materials.
+        - title: Bachelor's Degree of Finance
+          company: Xi'an Jiaotong University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-xjtu
+          location: Xi'an, China
+          date_start: '2015-09-01'
+          date_end: '2019-08-31'
+          description: Majored in Commercial Bank Assets Analysis.
+        - title: 2019 Online Project-Based Program on Introduction to Data Science
+          company: Harvard University
+          company_url: ''
+          company_logo: org-HV
+          location: Xi'an, China
+          date_start: '2019-10-12'
+          date_end: '2019-11-27'
+          description: Supervised by Prof. Pavlas Protopapas from Institute for Applied Computational Science, Harvard University, and recognized for successful completion of the 2019 Online Project-Based Program on Introduction to Data Science.
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
