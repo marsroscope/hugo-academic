@@ -53,19 +53,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Marsroscope
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=MfNUrHEAAAAJ&hl=zh-CN&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/marsroscope
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/mars-he-2b7689158
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +74,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'marsroscope@stu.xjtu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ziyao He (Mars He) is a PhD candidate of control science and engineering at Xi'an Jiaotong University. His research interests include human-AI cooperation, human-computer interaction and chabots. He is currently at iHCI-Lab led by Prof.Zhongmin Cai from Xi'an Jiaotong University and currently in cooperation with Prof. Shurui Zhou from University of Toronto for human-AI pair programming.
 {style="text-align: justify;"}
