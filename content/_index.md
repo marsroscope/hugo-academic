@@ -28,10 +28,6 @@ sections:
           description: 60%
           icon: code
           icon_pack: fas
-        - name: Vocal
-          description: 30%
-          icon: music
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
