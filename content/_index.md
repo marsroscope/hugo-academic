@@ -19,7 +19,7 @@ sections:
         - name: Python
           description: 80%
           icon: python
-          icon_pack: fab
+          icon_pack: fa-brands
         - name: Statistics
           description: 100%
           icon: chart-line
@@ -30,7 +30,7 @@ sections:
           icon_pack: fas
         - name: Vocal
           description: 30%
-          icon: microphone-stand
+          icon: music
           icon_pack: fas
   - block: experience
     content:
