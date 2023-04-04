@@ -28,6 +28,10 @@ sections:
           description: 60%
           icon: code
           icon_pack: fas
+        - name: Vocal
+          description: 30%
+          icon: microphone-stand
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
