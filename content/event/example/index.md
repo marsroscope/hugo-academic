@@ -13,7 +13,7 @@ address:
   country: Germany
 
 summary: Invited talk at CHI 2023 conference as one of the authors of a published work.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability aware shared mental model with the unified form of tuples to represent task specific capabilities of both human and AI. Results from our user study show that this approach improves accuracy and time efficiency while facilitating better understanding of each team member's capabilities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
