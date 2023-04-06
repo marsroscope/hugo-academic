@@ -17,14 +17,14 @@ abstract: 'Our paper proposes a novel approach to task assignment in human-AI co
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-04-25T09:00:00Z'
+date_end: '2023-04-25T09:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-04-06T00:00:00Z'
 
-authors: []
+authors: [Ziyao He]
 tags: []
 
 # Is this a featured talk? (true/false)
