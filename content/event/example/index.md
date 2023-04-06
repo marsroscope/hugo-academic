@@ -1,19 +1,19 @@
 ---
-title: Presentation at CHI 23
+title: Presentation at CHI 2023
 
-event: CHI 2023 Conference
-event_url: https://chi2023.acm.org/
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Congress Center Hamburg
+location: Wowchemy HQ
 address:
-  street: Congressplatz 1
-  city: Hamburg
+  street: 450 Serra Mall
+  city: Stanford
   region: CA
-  postcode: '20355'
-  country: Germany
+  postcode: '94305'
+  country: United States
 
-summary: The talk as the author of the published work in CHI 2023.
-abstract: 'Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability-aware shared mental model with the unified form of tuples to represent task-specific capabilities of both human and AI. Results from our user study show that this approach improves accuracy and time efficiency while facilitating better understanding of each team member's capabilities.'
+summary: An example talk using Wowchemy's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
