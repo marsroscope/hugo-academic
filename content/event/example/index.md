@@ -13,7 +13,7 @@ address:
   country: Germany
 
 summary: Invited talk at CHI 2023 conference as one of the authors of a published work.
-abstract: 'Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability aware shared mental model with the unified form of tuples to represent task specific capabilities of both human and AI. Results from our user study show that this approach improves accuracy and time efficiency while facilitating better understanding of each team member's capabilities.'
+abstract: 'Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability-aware shared mental model with the unified form of tuples to represent task-specific capabilities of both human and AI.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
