@@ -64,7 +64,7 @@ sections:
           date_start: '2019-10-12'
           date_end: '2019-11-27'
           description: Supervised by Prof. Pavlas Protopapas from Institute for Applied Computational Science, Harvard University, and recognized for successful completion of the 2019 Online Project-Based Program on Introduction to Data Science.
-          - title: （Ongoing）PhD Degree of Control Science and Engineering
+          - title: (Ongoing) PhD Degree of Control Science and Engineering
           company: Xi'an Jiaotong University
           company_url: ''
           company_logo: org-xjtu
