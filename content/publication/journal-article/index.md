@@ -1,16 +1,24 @@
 ---
-title: "An example journal article"
+title: "Advanced Se3P4@C Anode with Exceptional Cycling Life for High Performance Potassium-Ion Batteries"
 authors:
-- admin
-- Robert Ford
+- Bing Li
+- Ziyao He
+- Jiawei Zhao
+- Wentao Liu
+- Yangyang Feng
+- Jiangxuan Song
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding Author"
+date: "2020-01-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Small, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Potassium-ion batteries have attracted increasing attention for next-generation energy storage systems due to their high energy density and abundance of potassium. However, the lack of suitable anode highly hampers its practical application due to the large ionic radius of K+. Herein, a Se3P4@mesoporous carbon (Se3P4@C) composite is reported as a high-performance anode for potassium-ion batteries. The Se3P4@C composite is synthesized through an in situ combination reaction between red phosphorus and Se within a porous carbon matrix. In this way, the nano-sized Se3P4 is well confined in the porous carbon and thus exhibits a close contact with the carbon matrix. This can significantly improve the conductivity and alleviate the volume change during the cycling process. As a result, the Se3P4@C exhibits a high reversible initial capacity of 1036.8 mAh g−1 at a current density of 50 mA g−1 as well as an excellent cycle performance with a capacity decay of 0.07% per cycle over 300 cycles under 1000 mA g−1. In terms of high specific capacity and stable cycling performance, the Se3P4@C anode is a promising candidate for advanced potassium-ion batteries.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A Se3P4@mesoporous carbon composite has been developed as a high-performance anode for potassium-ion batteries, addressing the lack of suitable anodes that hamper practical application. The composite exhibits high reversible initial capacity and stable cycling performance, making it a promising candidate for advanced potassium-ion batteries.
 
 tags:
 - Source Themes
@@ -34,8 +42,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.201906595
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,12 +73,3 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
