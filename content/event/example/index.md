@@ -12,7 +12,7 @@ address:
   postcode: '20355'
   country: Germany
 
-summary: 'The talk on the published work: Interaction of Thoughts: Towards Mediating Task Assignment in Human-AI Cooperation with a Capability-Aware Shared Mental Model.'
+summary: The talk on the published work: Interaction of Thoughts: Towards Mediating Task Assignment in Human-AI Cooperation with a Capability-Aware Shared Mental Model.
 abstract: 'Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability-aware shared mental model with the unified form of tuples to represent task-specific capabilities of both human and AI. Results from our user study show that this approach improves accuracy and time efficiency while facilitating better understanding of each team member's capabilities.'
 
 # Talk start and end times.
