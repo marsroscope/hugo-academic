@@ -27,7 +27,7 @@ publishDate: "2020-01-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Small, 1*(1)"
+publication: "*Small, 16*(6)"
 publication_short: ""
 
 abstract: Potassium-ion batteries have attracted increasing attention for next-generation energy storage systems due to their high energy density and abundance of potassium. However, the lack of suitable anode highly hampers its practical application due to the large ionic radius of K+. Herein, a Se3P4@mesoporous carbon (Se3P4@C) composite is reported as a high-performance anode for potassium-ion batteries. The Se3P4@C composite is synthesized through an in situ combination reaction between red phosphorus and Se within a porous carbon matrix. In this way, the nano-sized Se3P4 is well confined in the porous carbon and thus exhibits a close contact with the carbon matrix. This can significantly improve the conductivity and alleviate the volume change during the cycling process. As a result, the Se3P4@C exhibits a high reversible initial capacity of 1036.8 mAh g−1 at a current density of 50 mA g−1 as well as an excellent cycle performance with a capacity decay of 0.07% per cycle over 300 cycles under 1000 mA g−1. In terms of high specific capacity and stable cycling performance, the Se3P4@C anode is a promising candidate for advanced potassium-ion batteries.
@@ -36,7 +36,7 @@ abstract: Potassium-ion batteries have attracted increasing attention for next-g
 summary: A Se3P4@mesoporous carbon composite has been developed as a high-performance anode for potassium-ion batteries, addressing the lack of suitable anodes that hamper practical application. The composite exhibits high reversible initial capacity and stable cycling performance, making it a promising candidate for advanced potassium-ion batteries.
 
 tags:
-- Source Themes
+- Potassium-ion Batteries
 featured: false
 
 # links:
@@ -70,6 +70,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
