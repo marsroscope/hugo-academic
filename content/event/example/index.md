@@ -7,9 +7,9 @@ event_url: https://chi2023.acm.org/
 location: Congress Center Hamburg
 address:
   street: 1 Congressplatz
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: Hamburg
+  region: HH
+  postcode: '20355'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
