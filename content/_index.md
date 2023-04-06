@@ -56,7 +56,7 @@ sections:
           date_start: '2015-09-01'
           date_end: '2019-08-31'
           description: Majored in Commercial Bank Assets Analysis.
-        - title: 2019 Online Project-Based Program on Introduction to Data Science
+        - title: Program on Introduction to Data Science
           company: Harvard University
           company_url: ''
           company_logo: org-HV
