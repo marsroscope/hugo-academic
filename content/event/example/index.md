@@ -1,5 +1,5 @@
 ---
-title: Author's Presentation at CHI 23
+title: Presentation at CHI 23
 
 event: CHI 2023 Conference
 event_url: https://chi2023.acm.org/
