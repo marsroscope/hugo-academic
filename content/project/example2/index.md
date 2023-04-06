@@ -3,7 +3,7 @@ title: Mission-Driven Chatbot
 summary: A project of building mission-driven chatbots in grid systems.
 tags:
   - Chatbot
-date: '2020-06-12T00:00:00Z'
+date: '2020-05-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
