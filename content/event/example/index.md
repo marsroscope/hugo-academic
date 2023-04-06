@@ -12,7 +12,7 @@ address:
   postcode: '20355'
   country: Germany
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Invited talk at CHI 2023 conference as one of the authors of a published work.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
