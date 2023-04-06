@@ -6,7 +6,7 @@ event_url: https://chi2023.acm.org/
 
 location: Congress Center Hamburg
 address:
-  street: 450 Serra Mall
+  street: 1 Congressplatz
   city: Stanford
   region: CA
   postcode: '94305'
