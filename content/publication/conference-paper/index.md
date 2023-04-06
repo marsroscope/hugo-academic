@@ -41,7 +41,7 @@ summary: Our paper proposes a novel approach to task assignment in human-AI coop
 tags: [shared mental model.human-AI cooperation.task assignment]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
