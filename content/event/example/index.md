@@ -2,7 +2,7 @@
 title: Presentation at CHI 2023
 
 event: CHI 2023
-event_url: https://example.org
+event_url: https://chi2023.acm.org/
 
 location: Wowchemy HQ
 address:
