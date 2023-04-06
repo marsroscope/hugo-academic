@@ -69,8 +69,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- content/project/example/index.md
+projects: "content/project/example/index.md"
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -81,5 +80,5 @@ slides: "https://1drv.ms/p/s!Ah6h9a-iT34KpB8nXoo_GFvR0MAv?e=J19ErR"
 ---
 
 {{% callout note %}}
-This work will be available online after CHI'23 (2023-04-23-37).
+This work will be available online after CHI'23 (2023-04-28).
 {{% /callout %}}
