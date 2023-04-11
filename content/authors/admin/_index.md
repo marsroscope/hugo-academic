@@ -8,7 +8,7 @@ last_name: He
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😉
 
 # Is this the primary user of the site?
 superuser: true
@@ -65,7 +65,7 @@ social:
     link: https://github.com/marsroscope
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/mars-he-2b7689158
+    link: https://linkedin.com/in/mars-he-2b7689158
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
