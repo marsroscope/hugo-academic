@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Pending...Currntly the CHI 2023 Logo.'
+  caption: 'Presentation by Ziyao He @CCH Hall B, Hamburg Germany.'
   focal_point: Right
 
 links:
