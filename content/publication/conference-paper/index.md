@@ -48,13 +48,13 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3544548.3580983'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'https://1drv.ms/p/s!Ah6h9a-iT34KpB8nXoo_GFvR0MAv?e=J19ErR'
-url_source: ''
+url_source: 'https://dl.acm.org/doi/abs/10.1145/3544548.3580983'
 url_video: ''
 
 # Featured image
@@ -81,5 +81,5 @@ slides: "https://1drv.ms/p/s!Ah6h9a-iT34KpB8nXoo_GFvR0MAv?e=J19ErR"
 ---
 
 {{% callout note %}}
-This work will be available online after CHI'23 (2023-04-28).
+This work is available online after CHI'23 (2023-04-28).
 {{% /callout %}}
