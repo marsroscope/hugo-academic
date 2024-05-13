@@ -38,7 +38,10 @@ abstract: The existing work on task assignment of human-AI cooperation did not c
 # Summary. An optional shortened abstract.
 summary: Our paper proposes a novel approach to task assignment in human-AI cooperation, utilizing the capability-aware shared mental model with the unified form of tuples to represent task-specific capabilities of both human and AI. Results from our user study show that this approach improves accuracy and time efficiency while facilitating better understanding of each team member's capabilities.
 
-tags: [shared mental model.human-AI cooperation.task assignment]
+tags: 
+- Shared Mental Model
+- Human-AI Cooperation
+- Task Assignment
 
 # Display this page in the Featured widget?
 featured: false
