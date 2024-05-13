@@ -78,9 +78,6 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "https://1drv.ms/b/s!Ah6h9a-iT34Ksx-wofIFbve1TUya?e=iOxHb8"
+slides: 
+- "https://1drv.ms/b/s!Ah6h9a-iT34Ksx-wofIFbve1TUya?e=iOxHb8"
 ---
-
-{{% callout note %}}
-This work is available online after CHI'24 (2024-05-11).
-{{% /callout %}}
