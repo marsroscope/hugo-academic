@@ -38,7 +38,10 @@ abstract: To address critical challenges in effectively identifying user intent 
 # Summary. An optional shortened abstract.
 summary: The paper proposes a condition-based multi-modal human-AI cooperation framework for enhancing user intent identification and information presentation in VR. It utilizes intent tuples and a 2-Large-Language-Models (2-LLMs) architecture, improving prompt length and response generation. A VR furniture purchasing system based on this framework outperforms in user study phases, promising personalized VR experiences.
 
-tags: [VR.human-AI cooperation.intention detection]
+tags: 
+- VR
+- Human-AI Cooperation
+- Chatbot
 
 # Display this page in the Featured widget?
 featured: false
