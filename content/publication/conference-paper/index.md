@@ -80,7 +80,9 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "https://1drv.ms/p/s!Ah6h9a-iT34KpB8nXoo_GFvR0MAv?e=J19ErR"
+
+slides:
+- "content/conference-paper/Slides Full-Revised.pptx"
 ---
 
 {{% callout note %}}
